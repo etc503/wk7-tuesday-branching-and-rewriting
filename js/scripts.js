@@ -9,12 +9,12 @@ if (over21) {
 });
 
 
-// if (lindsey === "avalible to drive") {
-//   driveToBeach();
-// }
-// else if (busesAreRunning === true) {
-//   busToBeach();
-// }
-// else {
-//   watchMovies();
-// }
+if (lindsey === "avalible to drive") {
+  driveToBeach();
+}
+else if (busesAreRunning === true) {
+  busToBeach();
+}
+else {
+  watchMovies();
+}
